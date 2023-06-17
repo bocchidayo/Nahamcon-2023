@@ -1,6 +1,6 @@
 # Geosint 1
 
-## The brief
+## Description
 
 ```
 Chall1 in https://osint.golf
