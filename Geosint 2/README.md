@@ -3,7 +3,7 @@
 ## Description
 
 ```
-Chall1 in https://osint.golf
+Chall2 in https://osint.golf
 ```
 
 ## What I did
