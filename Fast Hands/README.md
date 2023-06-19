@@ -16,3 +16,7 @@ Presing the button of F12, I pinpoint the source code in the HTML that says what
 ```
 So I open that URL and now that the window doesn't closes we can look for the flag.
 Inspecting the view-source HTML code and pressing CTRL-F to look for "flag", we find it hidden in the HTML code at the bottom.
+
+```
+flag{80176cdf1547a9be54862df3568966b8}
+```
